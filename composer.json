@@ -1,0 +1,13 @@
+{
+    "name": "nano/try-swow",
+    "type": "project",
+    "require": {
+        "heropoo/routing": "^0.8.4",
+        "heropoo/container": "^0.3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
