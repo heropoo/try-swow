@@ -3,7 +3,8 @@
     "type": "project",
     "require": {
         "heropoo/routing": "^0.8.4",
-        "heropoo/container": "^0.3.1"
+        "heropoo/container": "^0.3.1",
+        "swow/swow": "dev-develop"
     },
     "autoload": {
         "psr-4": {
